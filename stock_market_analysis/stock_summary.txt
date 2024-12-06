@@ -1,0 +1,5 @@
+Stock Price Analysis Summary:
+The average closing price of the stock is $66.332 
+The highest closing price of the stock is $66.56 
+The lowest closing price of the stock is $66.19 
+The number of days the stock price increased was 16 days 
